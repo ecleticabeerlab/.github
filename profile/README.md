@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ecletica.beer" target="_blank">
-      <img width="20%" src="https://avatars.githubusercontent.com/u/64073807?s=200&v=4" alt="ecletica beer lab logo" />
+      <img width="20%" src="imgs/logo.png" alt="ecletica beer lab logo" />
   </a>
   <h1 align="center">Somos cervejaria, amamos cerveja e tecnologia! <br /> Ecletica Beer Lab</h1>
 </p>
