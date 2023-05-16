@@ -2,7 +2,7 @@
   <a href="https://ecletica.beer" target="_blank">
       <img width="20%" src="https://github.com/ecleticabeerlab/.github/blob/main/profile/imgs/logo.png" alt="ecletica beer lab logo" />
   </a>
-  <h1 align="center">Somos cervejaria, amamos cerveja e tecnologia! <br /> Ecletica Beer Lab</h1>
+  <h1 align="center"><strong>Ecletica Beer Lab</strong> <br/> Somos cervejaria, amamos cerveja e tecnologia!</h1>
 </p>
 
 <br />
