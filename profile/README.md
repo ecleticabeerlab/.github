@@ -1,3 +1,5 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1qm72.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 <p align="center">
   <a href="https://ecletica.beer" target="_blank">
       <img width="20%" src="https://github.com/ecleticabeerlab/.github/blob/main/profile/imgs/logo.png" alt="ecletica beer lab logo" />
