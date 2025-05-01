@@ -5,8 +5,7 @@
       <img width="20%" src="https://github.com/ecleticabeerlab/.github/blob/main/profile/imgs/logo.png" alt="ecletica beer lab logo" />
   </a>
   <br/>
-  <h1 align="center"><strong>Ecletica Beer Lab</strong></h1>
-  <h2>Onde a paixão pela cerveja se encontra com a inovação, transformando cada gota em uma obra-prima!</h2>
+  <h1 align="center"><strong>Ecletica Beer Lab</strong> <br/>&nbsp;<br/>&nbsp;<br/> Onde a paixão pela cerveja se encontra com a inovação, transformando cada gota em uma obra-prima!</h1>
 </p>
 
 <p>Na <strong>Ecletica Beer Lab</strong>, somos movidos pela paixão e pela inovação. Aqui, a arte de produzir cerveja se encontra com a jornada tecnológica, resultando em experiências únicas em cada gota. Nossa missão é transformar a paixão pela cerveja em uma celebração de sabores e ritmos, onde cada rótulo é uma homenagem à música e à diversidade cultural que nos rodeia.</p>
