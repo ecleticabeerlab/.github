@@ -4,24 +4,15 @@
   <a href="https://ecletica.beer" target="_blank">
       <img width="20%" src="https://github.com/ecleticabeerlab/.github/blob/main/profile/imgs/logo.png" alt="ecletica beer lab logo" />
   </a>
-  <h1 align="center"><strong>Ecletica Beer Lab</strong> <br/> Somos cervejaria, amamos cerveja e tecnologia!</h1>
+  <h1 align="center"><strong>Ecletica Beer Lab</strong> <br/> Onde a paixão pela cerveja se encontra com a inovação, transformando cada gota em uma obra-prima!</h1>
 </p>
 
-<br />
+<p>Na <strong>Ecletica Beer Lab</strong>, somos movidos pela paixão e pela inovação. Aqui, a arte de produzir cerveja se encontra com a jornada tecnológica, resultando em experiências únicas em cada gota. Nossa missão é transformar a paixão pela cerveja em uma celebração de sabores e ritmos, onde cada rótulo é uma homenagem à música e à diversidade cultural que nos rodeia.</p>
 
-<p>
-  Isso nos fez pensar em como poderíamos ajudar cervejeiros caseiros e cervejarias a terem um maior controle do processo
-  mais importante da produção, o processo a frio, fermentação, maturação e etc. Onde dependemos de um controle absoluto de rampas de temperatura
-  e com monitoramento e por fim, não menos importante, apreciar a obra pronta, uma bela cerveja e ser capaz de repetir visando reviver aquele momento de apreciação.
-</p>
+<p>N nosso coração ecletico pulsa forte ao criar cervejas artesanais que falam diretamente aos sentidos. Desde a leveza da nossa <strong>"Salsa"</strong>, uma Witbier refrescante, até a intensidade rica da <strong>"RnB - Rhythm and Blues"</strong>, uma Russian Imperial Stout, cada rótulo é cuidadosamente elaborado para proporcionar momentos memoráveis e alegres. Acreditamos que a cerveja é uma experiência que compartilha histórias, celebra conquistas e fortalece laços.</p>
 
-<p>
-  Daí surgiu a ideia de um produto, uma plataforma completa chamada Ecletica Beer Control, composta por uma infraestrutura contando com tecnologias
-  como IoT, Edge Computing e Cloud Computing, infra essa capaz de fornecer dados, métricas e controlar todo o processo a frio a partir de 
-  configurações pré-estabelecidas para cada receita cadastrada, com possibilidades de ajuste de parâmetros em tempo real e monitoramento 24/7.
-</p>
+<p>Mas nossa jornada não termina nas cervejas! Estamos entusiasmados em apresentar o <strong>Ecletica Beer Control</strong>, uma plataforma revolucionária que traz tecnologia de ponta para o processo de produção. Com ela, cervejeiros caseiros e profissionais podem alcançar um novo patamar de controle e precisão, garantindo a qualidade excepcional que todos desejamos.</p>
 
-<p>
-  Em breve disponível para cervejeiros caseiros, com plano gratuito para o controle de 1 (um) dispositivo que poderá ser facilmente acoplado
-  ao seu fermentador e também preços otimizados para nano, micro e crevejarias de grande porte.
-</p>
+<p>Em cada passo que damos, temos orgulho de colaborar com cervejeiros de todos os níveis, pois acreditamos que cada cerveja é uma obra-prima em potencial. Nossa equipe apaixonada está sempre disposta a ajudar, compartilhar conhecimento e celebrar a arte de fazer cerveja com você.</p>
+
+<p>Na <strong>Ecletica Beer Lab</strong>, brindamos à inovação, à diversidade e à paixão pela cerveja! <strong>Saúde!</strong> 🍻🎶</p>
